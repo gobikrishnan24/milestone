@@ -1,0 +1,83 @@
+.container-fluid{
+    background-color: white;
+}
+.navbar-brand,.nav-link:hover{
+        color: aqua !important;
+        cursor: pointer;
+}
+.btn:hover{
+       background-color: brown !important;
+}
+.jeniston{
+    background-image: url(g2.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.jaikrishnan{
+    position: fixed ;
+}
+.keerthi{
+    padding-left: 50px;
+    
+    
+}
+.sudharsan{
+    padding-left: 50px;
+}
+.jai{
+   padding-top: 50px;
+}
+.dilip > h1{
+    text-align: center;
+    align-items: center;
+    background-color: burlywood;
+}
+.karthi:hover{
+      box-shadow: 0px 0px 40px cyan,
+                  0px 0px 70px blue;
+                  background-color: antiquewhite lightblue;                 
+}
+.card:hover{
+    padding-left: 30px;
+    box-shadow:
+                0px 0px 70px blue;
+ 
+}
+button{
+    margin-right: 25px;
+}
+footer{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(250, 203, 203);
+    height: 50vh;
+    margin-top: 50px;
+    display: flex;  
+    justify-content: space-between;  
+}
+.icons:hover{
+         color: aqua;
+}
+.partner{
+    background-image: url(part.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    margin-top: 10px;
+}
+.p{
+    text-align: center;
+    align-items: center;
+    background-color: brown;
+    margin-top: 10px;
+}
+.line{
+    text-align: center;
+    align-items: center;
+    background-color: brown;
+    margin-top: 50px;
+}
+.row{
+    animation: backwards;
+}
